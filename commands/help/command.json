@@ -1,0 +1,6 @@
+{
+    "name": "help",
+    "description": "Get help on commands",
+    "main": "index.js",
+    "admin": false
+}

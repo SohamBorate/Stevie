@@ -1,0 +1,6 @@
+{
+    "name": "weather",
+    "description": "Get weather of a location.",
+    "main": "index.js",
+    "admin": false
+}

@@ -1,0 +1,6 @@
+{
+    "name": "hi",
+    "description": "just a hi nothing much",
+    "main": "index.js",
+    "admin": false
+}

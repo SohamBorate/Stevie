@@ -1,0 +1,6 @@
+{
+    "name": "tictactoe",
+    "description": "Play a fun game of tic tac toe with your friends.",
+    "main": "index.js",
+    "admin": false
+}

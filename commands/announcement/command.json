@@ -1,0 +1,6 @@
+{
+    "name": "announcement",
+    "description": "Make an announcement in all the servers the bot is added to.",
+    "main": "index.js",
+    "admin": true
+}
